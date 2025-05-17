@@ -1,4 +1,4 @@
-# ⏳ Activity Expectations
+# ⏳ Activity Expectations (EVOGROUP STAFF/NOT ROLES BUYED VIA RANKING CENTER)!
 
 ## Minimums
 - Host or co-host 2 shifts/week
