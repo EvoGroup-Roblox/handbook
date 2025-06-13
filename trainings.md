@@ -177,15 +177,7 @@ Use these questions during advanced training, internal reviews, or promotion ass
 | Give an example of taking initiative without being told. | Covering sudden gaps, handling customer complaints on your own, organizing teams. |
 | How do you keep your team motivated during quiet or long shifts? | Rotate tasks, provide feedback, use positive reinforcement, and set small goals. |
 | How do you ensure procedures are followed without direct supervision? | Lead by example, communicate expectations, conduct periodic checks. |
-
----
-
-## How to Use
-
-Place this file as `handbook.md` in:
-- `.github/` folder of a repository  
-- Your GitHub Wiki  
-- Training Docs folder  
+ 
 
 Recommended: Use alongside Google Forms or Trello for evaluations and activity tracking.
 
