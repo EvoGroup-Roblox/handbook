@@ -13,5 +13,6 @@ Please refer to each section below for important procedures and policies.
 - [📈 Promotions & Demotions](promotions.md)
 - [⏳ Activity Guidelines](activity.md)
 - [❓ FAQ](faq.md)
+- [Trainings](trainings.md)
 
 _Last updated: May 2025_
